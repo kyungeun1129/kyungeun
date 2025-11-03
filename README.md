@@ -1,9 +1,9 @@
 ## KYUNGEUN
-1. [Read Me](#-read-me)
-2. [Project Experience](#-project-experience)
-3. [Skills](#%EF%B8%8F-skills)
-4. [Education & Certificates](#-education--certificates)
-5. [Other Experiences](#-other-experiences)
+1. [Read Me](#read-me)
+2. [Project Experience](#project-experience)
+3. [Skills](#%skills)
+4. [Education & Certificates](#education--certificates)
+5. [Other Experiences](#other-experiences)
 
 ---
 
