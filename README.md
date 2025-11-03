@@ -59,7 +59,7 @@
   - 여러 데이터 분석 모델 사용 경험
   - 데이터 분석 모델 시각화
   - 
-- **GitHub:** [Movie Repository]()
+- **GitHub:** [Movie Repository](https://github.com/kyungeun1129/movieanalysis)
 
 ---
 
