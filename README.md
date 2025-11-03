@@ -12,13 +12,12 @@
 사용자에게 진짜 도움이 되는 서비스를 만드는 것을 좋아하는 **개발자 김경은**입니다.
 데이터 분석과 웹 개발 경험을 바탕으로, 사용자의 행동을 이해하고 더 나은 경험을 설계하려 노력합니다.
 
-
 ---
 
 # Project Experience
 
 ## Let’s trip (사용자들끼리 실시간으로 의견 교환이 가능한 여행 게시판)
-**기간:** 2025.3.11 ~ 2025.3.31  
+**기간:** 2025.3.11 ~ 2025.3.31 (21일)
 **팀원:** 5명  
 **기술 스택:** JavaScript, HTML, CSS, jQuery, Ajax, Java, SQL, REST API, WebSocket  
 **기획 의도:** ‘‘Let’s Trip”은 여행을 좋아하는 사람들이 여행 정보를 공유하고, 함께할 멤버를 모집하며, 자신의 여행 일정을 정리할 수 있는 웹 플랫폼입니다. 
@@ -28,38 +27,41 @@
  
 - **성과:**  
   - WebSocket 등 새로운 기술 학습 후 성공적 구현
-  - 보안 고려 기능 일부 구현 경험
-  - Git 브랜치 전략 도입 및 팀 협업 관리 
-- **GitHub:** [Let's Trip Repository](https://github.com/yooooooooj-ch/Yonghagesseo.git)
+  - 보안 고려 기능 일부 구현 경험(비밀글 기능 구현)
+  - 무한 대댓글 기능 구현  
+  - MVC 아키텍처 설계 적용
+  - Git 브랜치 전략 도입 및 팀 협업 관리
+- **GitHub:** [Let's Trip Repository](https://github.com/kyungeun1129/letstrip.git)
 
 ---
 
-## ✅ Six Club (헬스 루틴 추천 플랫폼)
-**기간:** 2025.06.09 ~ 2025.07.01 (23일)  
-**팀원:** 5명  
-**기술 스택:** Spring Legacy, MyBatis, Oracle, Kakao Map API, HTML/CSS/JS  
-**기획 의도:** 초보자도 쉽게 접근할 수 있는 루틴 추천 + 헬스장 정보 통합 플랫폼  
+## 영화 흥행 예측 모델
+**기간:** 2024.12.23 ~ 2024.12.31 (9일)
+**팀원:** 3명  
+**기술 스택:** Python, KOBIS Open API, TensorFlow 
+**기획 의도:** 이 프로젝트는 영화 흥행 예측 모델을 통해 영화 개봉 전후의 의사결정에 도움을 주는 것을 목표로 합니다. 
+            예측 결과는 영화 제작사나 투자자의 입장에서, 제작 단계에서의 자원 배분, 투자 규모 결정 등과 같은 전략적 판단에 긍정적인 영향을 미칠 것입니다.
 
-- **담당:** Q&A 게시판, 헬스장 지도 연동, 마이페이지 일부 기능 개발  
-- **성과:**  
-  - 비밀글·대댓글 기능 구현  
-  - 카카오 지도 API를 활용한 위치기반 헬스 추천  
-  - MVC 아키텍처 설계 적용  
-- **GitHub:** [SixClub Repository](https://github.com/yooooooooj-ch/SixClub.git)
+- **담당:** 데이터 크롤링, 데이터 전처리, 모델 구성 
+- **성과:**   
+  - 데이터 크롤링을 통해 정보 수집 경험
+  - 여러 데이터 분석 모델 사용 경험
+  - 데이터 분석 모델 시각화  
+- **GitHub:** [Movie Repository]()
 
 ---
 
-## ✅ 내일 뭐 먹지? (음식점 예약 시스템)
-**기간:** 2024.04.14 ~ 2024.04.28 (15일)  
-**팀원:** 5명  
-**기술 스택:** Java, Oracle DB, Java Swing, JDBC, SHA-256  
-**기획 의도:** 사용자–사업자 간 예약 불편 해소 플랫폼 구축  
+## 나만의 블로그 만들기
+**기간:** 2024.11.11 ~ 2024.11.20 (10일)
+**팀원:** 3명  
+**기술 스택:** Java Swing, Eclipse, Oracle, Oracle DB
+**기획 의도:** ‘나만의 블로그 만들기’ 프로젝트는 사용자가 자신만의 독특한 공간을 창조하고, 다양한 주제에 대한 생각을 자유롭게 표현하고 공유할 수 있도록 설계되었습니다.
 
-- **담당:** 프로젝트 총괄 / 관리자 페이지 / DB 설계  
+- **담당:** 아이디어 제안, 기획, 메인 페이지 설계, 일기 게시판 설계 및 제작  
 - **성과:**  
-  - SHA-256 기반 암호화 로그인  
-  - 타이머 기반 실시간 예약 승인/거절 기능  
-- **GitHub:** [Naeil Repository](https://github.com/yooooooooj-ch/Naeil.git)
+  - cardLayout을 통한 자연스러운 화면 전환 구성  
+  - FileOutputStream, OutputStreamWriter, FileinputStream, InputStreamReader, BufferReader 등을 이용한 파일 저장 및 삭제 구현
+- **GitHub:** [Blog Repository]()
 
 ---
 
