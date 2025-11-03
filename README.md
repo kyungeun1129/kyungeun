@@ -46,15 +46,17 @@
 
 ## Skills
 
-| 분류 | 보유 기술 |
-|------|-----------|
-| **Language** | Java, Python (기초 문법, 자료구조, 함수, 모듈 활용, 머신러닝 경험) |
-| **Web** | HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap |
-| **Framework** | Spring, Spring Boot, MyBatis, JSP/Servlet, MVC 패턴 이해 |
-| **DB** | Oracle (SQL 작성, DB 설계, 정규화 이해) |
-| **WAS** | Apache Tomcat 서버 구축 경험 |
-| **Tool** | Git 브랜치 활용 및 Merge 경험 |
-| **Additional** | Swing GUI 애플리케이션 구현, REST API, WebSocket 기반 실시간 기능 구현 |
+| **기술분류** | **보유기술** |
+|--------------|--------------|
+| **Language** | - **Java**: 다양한 API 연동 및 활용<br>- Spring Boot 기반 WebSocket을 활용한 실시간 메시지 전송 기능 구현<br>- 예외 처리 이해 및 적용<br>- File 클래스와 Stream을 이용한 파일 입출력 관리 및 경로 설정 구현<br>- Swing을 활용하여 간단한 폼 애플리케이션 구현<br>- Spring과 Spring Boot를 활용하여 웹 애플리케이션 개발 경험<br>- **Python**: Python 개념 이해, 기초 문법 및 함수 사용<br>- 자료구조 및 데이터 자료형 이해<br>- 모듈의 이해 및 활용<br>- DataFrame의 이해 및 활용<br>- 웹 크롤링 이해 및 활용<br>- TensorFlow와 Keras를 활용한 간단한 머신러닝 경험 |
+| **JSP** | - HTML 이해 및 구현<br>- Java Bean을 활용, Set/Get 메소드를 이용해 DB와 연동하여 DB 입출력<br>- EL Tag/JSTL을 활용한 코드 작성 및 개념 이해<br>- Servlet의 특징 및 MVC 패턴 이해 |
+| **JavaScript** | - JavaScript AJAX, Fetch API 활용 경험<br>- jQuery 오픈소스 라이브러리 활용 |
+| **CSS** | - CSS 문법의 이해와 웹페이지 구현<br>- 부트스트랩의 코드를 활용한 웹페이지 구현 |
+| **Ajax** | - Ajax와 REST Controller를 활용한 비동기 방식 페이지 구현 |
+| **DBMS** | - **Oracle**: DB 설치 및 기본 SQL 작성 이해<br>- DB 모델링 설계 및 정규화 이해 |
+| **WAS** | - **Apache-Tomcat**: 서버 구축 작업 및 사용 가능 |
+| **TOOL** | - **Git**: 프로젝트에 branch 활용과 Merge 경험 |
+| **FRAMEWORK** | - **Spring**: Spring AOP 이해<br>- Spring MVC 패턴 이용 WebApp 제작<br>- JPA의 Entity와 Repository 활용<br>- Spring Boot 활용<br>- **MyBatis**: 매핑, DB 연결 및 SQL 적용 |
 
 ---
 
