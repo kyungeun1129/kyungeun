@@ -79,7 +79,7 @@
   - cardLayout을 통한 자연스러운 화면 전환 구성  
   - FileOutputStream, OutputStreamWriter, FileinputStream, InputStreamReader, BufferReader 등을 이용한 파일 저장 및 삭제 구현
   - 
-- **GitHub:** [Blog Repository]()
+- **GitHub:** [diaryblog Repository](https://github.com/kyungeun1129/diaryblog)
 
 ---
 
